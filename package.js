@@ -1,5 +1,5 @@
 Package.describe({
-	name: 'oratekch:jquery-contextmenu',
+	name: 'oratek:jquery-contextmenu',
 	summary: 'JQuery ContextMenu by Rodney Rehm',
 	version: '1.6.6',
 	git: 'https://github.com/oratekch/meteor-jquery-contextmenu.git'
